@@ -21,7 +21,7 @@ One of (only if shaken or stirred):
 - Double strain into glass[, over [cracked | crushed | cubed |] ice]
 - Open pour into glass[, over [cracked | crushed | cubed |] ice]
 
-Top up with [soda water | soda | juice]. Garnish with [no | an olive | a cherry | a mint leaf | [a | integer] [lime | orange | lemon | grapefruit [wedge | wheel]] | a [lemon | orange | lime | grapefruit] twist]
+Top up with [soda water | soda | juice]. Garnish with [no | an olive | a Maraschino cherry | a mint leaf | [a | integer] [lime | orange | lemon | grapefruit [wedge | wheel]] | a [lemon | orange | lime | grapefruit] twist]
 
 -------
 
