@@ -1,7 +1,7 @@
 A "[drink name]". Serve [up | long | neat | on the rocks |] with [a straw | a [salt | sugar] rim |] in a [Martini | coupe | rocks | Collins | highball] glass with [no | an olive | a Maraschino cherry | a mint leaf | [a | integer] [lime | orange | lemon | grapefruit [wedge | wheel]] | a [lemon | orange | lime | grapefruit] twist] garnish
 
 - [1/4 | 1/2 | 3/4 | integer] [oz | ounces | measures | shots] of [base | liqueur | syrup | juice | bitters]
-- [integer] [fruit | mint [leaf | leaves] | sugar], muddled
+- [integer] [fruit | mint [leaf | leaves]], muddled
 - [integer] egg white
 - [1/4 | 1/2 | 3/4 | integer] [dash | drop] of [[Angostura | aromatic | orange | chocolate | grapefruit | Peychaud's | Boker's] bitters | absinthe]
 - [1/4 | 1/2 | 3/4 | integer] teaspoon of [base | liqueur | syrup | juice | bitters]
