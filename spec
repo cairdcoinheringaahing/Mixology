@@ -7,7 +7,7 @@ A "[drink name]". Serve [up | long | neat | on the rocks |] with [a straw | a [s
 - [1/4 | 1/2 | 3/4 | integer] teaspoon of [base | liqueur | syrup | juice | bitters]
 - [soda water | soda | juice], to top up
 
-Add the [ingredient | list, of, ingredients] to the [shaker | tin]. Muddle the [leaf | leaves] | sugar].
+Add the [ingredient | list, of, ingredients] to the [shaker | tin]. Muddle the [leaf | leaves]].
 
 One of:
 
